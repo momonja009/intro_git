@@ -1,0 +1,4 @@
+gitの練習
+編集しました
+.git add
+.git commit
